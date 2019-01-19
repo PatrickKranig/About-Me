@@ -21,7 +21,7 @@ I have experience in many programming languages such as:
 <tr>
   <td>Batch (Windows)</td><td>Basics</td>
 <tr>
-  <td>Bash (Linux)</td><td>Basicsi</td>
+  <td>Bash (Linux)</td><td>Basics</td>
 <tr>
   <td>CAL (NAV)</td><td>Basics</td>
 <tr>

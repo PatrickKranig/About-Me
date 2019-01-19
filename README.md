@@ -7,7 +7,7 @@ My Website is <a href="https://Patrickkranig-merchandise.de.tl">this</a> ^^
 I have experience in many programming languages such as:
 <table>
 <tr>
-  <td><b><u>language</b></u></td><td><b><u>Skill</b></u></td>
+  <td><b><u>language</u><td><b><u>Skill</u>
 <tr>
   <td>HTML</td><td>expanded</td>
 <tr>
@@ -22,7 +22,6 @@ I have experience in many programming languages such as:
   <td>Batch (Windows)</td><td>Basics</td>
 <tr>
   <td>Bash (Linux)</td><td>Basicsi</td>
-</table>
 
 And <b>other</b> specific Software Applications (e.g. <b>ERP Software</b> like <u><b>MS Dynamics NAV</b></u> with the programming language <b><u>CAL</b></u>).
 

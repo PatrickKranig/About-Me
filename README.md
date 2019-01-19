@@ -1,8 +1,8 @@
 # Hello Everyone!
 i will give you a short review about me.
 
-Iam a Software Developer since 2018 and have sideline a small online trade
-My Website is <a href="https://Patrickkranig-merchandise.de.tl">this</a> ^^
+Iam a Software Developer since 2018 and have sideline a small online trade.<br>
+My Website is <a href="https://Patrickkranig-merchandise.de.tl">here</a>.
 
 I have experience in many programming languages such as:
 <table>

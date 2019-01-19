@@ -8,10 +8,10 @@ In 2010 I completed a business education with basic knowledge in programming.
 
 I have experience in many programming languages such as:
 <table>
-  <tr>
-  <td>C#</td><td>expanded</td>
 <tr>
   <td><b><u>language</u><td><b><u>Skill</u>
+<tr>
+  <td>C#</td><td>expanded</td>
 <tr>
   <td>HTML</td><td>expanded</td>
 <tr>

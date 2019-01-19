@@ -1,19 +1,19 @@
 # Hello Everyone!
-i willl give you a short review about me.
+i will give you a short review about me.
 
-I are a Software Developer sience 2018 and have sideline a small online trade
+Iam a Software Developer since 2018 and have sideline a small online trade
 My Website is <a href="https://Patrickkranig-merchandise.de.tl">this</a> ^^
 
 I have experience in many programming languages such as:
 <table>
 <tr>
-  <td>language</td><td>Skill</td>
+  <td><b><u>language</b></u></td><td><b><u>Skill</b></u></td>
 <tr>
   <td>HTML</td><td>expanded</td>
 <tr>
-  <td>CSS</td><td>Basics</td>
-<tr>
   <td>C#</td><td>expanded</td>
+<tr>
+  <td>CSS</td><td>Basics</td>
 <tr>
   <td>SQL</td><td>Basics</td>
 <tr>
@@ -24,5 +24,6 @@ I have experience in many programming languages such as:
   <td>Bash (Linux)</td><td>Basicsi</td>
 </table>
 
+And <b>other</b> specific Software Applications (e.g. <b>ERP Software</b> like <u><b>MS Dynamics NAV</b></u> with the programming language <b><u>CAL</b></u>).
 
-And other specific Software Applications (e.g. ERP Software like MS Dynamics NAV with the programming language CAL).
+Furthermore, I also have basic knowledge in the modeling language UML.

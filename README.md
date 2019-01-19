@@ -2,18 +2,22 @@
 i will give you a short review about me.
 
 Iam a Software Developer since 2018 and have sideline a small online trade.<br>
-My Website is <a href="https://Patrickkranig-merchandise.de.tl">here</a>.
+My Website is <a href="https://Patrickkranig-merchandise.de.tl">here</a>.<br>
+<br>
+In 2010 I completed a business education with basic knowledge in programming.
 
 I have experience in many programming languages such as:
 <table>
+  <tr>
+  <td>C#</td><td>expanded</td>
 <tr>
   <td><b><u>language</u><td><b><u>Skill</u>
 <tr>
   <td>HTML</td><td>expanded</td>
 <tr>
-  <td>C#</td><td>expanded</td>
-<tr>
   <td>CSS</td><td>Basics</td>
+<tr>
+  <td>PASCALL</td><td>Basics</td>
 <tr>
   <td>SQL</td><td>Basics</td>
 <tr>

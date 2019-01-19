@@ -22,7 +22,7 @@ I have experience in many programming languages such as:
   <td>Batch (Windows)</td><td>Basics</td>
 <tr>
   <td>Bash (Linux)</td><td>Basicsi</td>
-
-And <b>other</b> specific Software Applications (e.g. <b>ERP Software</b> like <u><b>MS Dynamics NAV</b></u> with the programming language <b><u>CAL</b></u>).
-
-Furthermore, I also have basic knowledge in the modeling language UML.
+<tr>
+  <td>CAL (NAV)</td><td>Basics</td>
+<tr>
+  <td>UML</td><td>Basics</td>

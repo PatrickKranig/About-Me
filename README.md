@@ -29,4 +29,6 @@ I have experience in many programming languages such as:
 <tr>
   <td>CAL (NAV)</td><td>Basics</td>
 <tr>
-  <td>UML</td><td>Basics</td>
+  <td>UML</td><td>Basics</td>  
+<tr>
+  <td>Python</td><td>Basics</td>

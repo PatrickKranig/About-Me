@@ -23,11 +23,11 @@ I have experience in many programming languages such as:
 <tr>
   <td>JAVA</td><td>Basics</td>
 <tr>
-  <td>Batch (Windows)</td><td>Basics</td>
+  <td>Batch (Win)</td><td>Basics</td>
 <tr>
   <td>Bash (Linux)</td><td>Basics</td>
 <tr>
-  <td>CAL (NAV)</td><td>Basics</td>
+  <td>CAL (NAV-BC)</td><td>Basics</td>
 <tr>
   <td>UML</td><td>Basics</td>  
 <tr>

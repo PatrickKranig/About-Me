@@ -13,6 +13,8 @@ I have experience in many programming languages such as:
 <tr>
   <td>C#</td><td>expanded</td>
 <tr>
+  <td>Basic C</td><td>Basics</td>
+<tr>
   <td>HTML</td><td>expanded</td>
 <tr>
   <td>CSS</td><td>Basics</td>

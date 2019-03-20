@@ -1,7 +1,7 @@
 # Hello Everyone!
 i will give you a short review about me.
 
-Iam a Software Developer since 2018 and have sideline a small online trade.<br>
+Iam a Software Developer since 2017 and have sideline a small online trade.<br>
 My Website is <a href="https://Patrickkranig-merchandise.de.tl">here</a>.<br>
 <br>
 In 2010 I completed a business education with basic knowledge in programming.
@@ -10,27 +10,29 @@ I have experience in many programming languages such as:
 <table>
 <tr>
   <td><b><u>language</u><td><b><u>Skill</u>
-<tr>
-  <td>C#</td><td>expanded</td>
-<tr>
-  <td>Basic C</td><td>Basics</td>
-<tr>
-  <td>HTML</td><td>expanded</td>
-<tr>
-  <td>CSS</td><td>Basics</td>
-<tr>
-  <td>PASCALL</td><td>Basics</td>
-<tr>
-  <td>SQL</td><td>Basics</td>
-<tr>
-  <td>JAVA</td><td>Basics</td>
-<tr>
-  <td>Batch (Win)</td><td>Basics</td>
-<tr>
-  <td>Bash (Linux)</td><td>Basics</td>
-<tr>
-  <td>CAL (NAV-BC)</td><td>Basics</td>
-<tr>
-  <td>UML</td><td>Basics</td>  
-<tr>
-  <td>Python</td><td>Basics</td>
+    <tr>
+      <td>C</td><td>Basics</td>
+      <tr>
+        <td>C++</td><td>Basics</td>
+    <tr>
+      <td>C#</td><td>expanded</td>
+    <tr>
+      <td>HTML</td><td>expanded</td>
+    <tr>
+      <td>CSS</td><td>Basics</td>
+    <tr>
+      <td>PASCALL</td><td>Basics</td>
+    <tr>
+      <td>SQL</td><td>Basics</td>
+    <tr>
+      <td>JAVA</td><td>Basics</td>
+    <tr>
+      <td>Batch (Win)</td><td>Basics</td>
+    <tr>
+      <td>Bash (Linux)</td><td>Basics</td>
+    <tr>
+      <td>CAL (NAV-BC)</td><td>Basics</td>
+    <tr>
+      <td>UML</td><td>Basics</td>  
+    <tr>
+      <td>Python</td><td>Basics</td>
